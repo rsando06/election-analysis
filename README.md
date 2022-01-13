@@ -1,4 +1,4 @@
-#Election Analysis
+# Election Analysis
 
 ## Project Overview
 A Colorado Board of Elections employee has given you the following tasks to complete the election audit of a recent local congressional election.
@@ -27,8 +27,8 @@ The analysis of the election show that:
 -The winner of the election was:
   -Diana DeGette, who received 73.8% of the votes and 272,892 number of votes.
   
-##Challenge Overview
+## Challenge Overview
 This analysis was interesting to do for the simple reason that it helped me understand that indentation within Python is very important. It took me quite some time to realize that there were lines not working correctly due to something as simple as indentation and proper punctuation.
 
-##Challenge Summary
+## Challenge Summary
 THe winner of the election was Diana DeGette. The code for this analysis helped me better understand how to read and write information to files outside of itself.
