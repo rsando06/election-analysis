@@ -24,6 +24,7 @@ The analysis of the election show that:
   - Charles Casper Stockham received 23.0% of the votes and 85,213 number of votes.
   - Diana DeGette received 73.8% of the votes and 272,892 number of votes.
   - Raymon Anthony Doane received 3.1% of the votes and 11,606 number of votes.
+- The county with the largest number of votes was Denver County, which had 82.8% of the casted votes and 306,055 number of casted votes.
 - The winner of the election was:
   - Diana DeGette, who received 73.8% of the votes and 272,892 number of votes.
   
@@ -31,4 +32,5 @@ The analysis of the election show that:
 This analysis was interesting to do for the simple reason that it helped me understand that indentation within Python is very important. It took me quite some time to realize that there were lines not working correctly due to something as simple as indentation and proper punctuation.
 
 ## Challenge Summary
-THe winner of the election was Diana DeGette. The code for this analysis helped me better understand how to read and write information to files outside of itself.
+The winner of the election was Diana DeGette. The code for this analysis helped me better understand how to read and write information to files outside of itself.
+This script can be modified to be used in other elections by changing what .csv file is read and where it is written to. 
